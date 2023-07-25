@@ -25,6 +25,7 @@
 | [<img src="https://avatars.githubusercontent.com/u/7294026?v=4" style="height:15px;width:15px;"/> Irv Kalb](https://github.com/IrvKalb)           |   Personally taught me a substantial bit about Python OOP, `irvkalb` on discord   |
 | [<img src="https://avatars.githubusercontent.com/u/11601040?v=4" style="height:15px;width:15px;"/> 3Blue1Brown](https://github.com/3b1b) | Put out amazing maths and machine learning courses from which I learned |
 | [<img src="https://avatars.githubusercontent.com/u/20768569?v=4" style="height:15px;width:15px;"/> Linnea Gräf (AKA Nea)](https://github.com/romangraef) | Held my hand through a bit of Java and DBus work in Minecraft Modding, `nea89` on discord |
+| [<img src="https://avatars.githubusercontent.com/u/4048251?v=4" style="height:15px;width:15px;"/> Corey Shafer](https://github.com/CoreyMSchafer) | Provided concise and invaluable lessons on difficult programming concepts and particularly their implementation with Python on YouTube | 
 
 
 </div>
