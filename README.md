@@ -5,9 +5,7 @@
 
   # ABOUT
   ![200%-roi](https://github.com/y-samy/y-samy/assets/51068469/d6388629-2296-410f-853e-cb7321aeec94)
-  [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
-  [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-  [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
+
 
   ## Academic Interests
   I'm currently studying a few subjects and working on others. Here are a few of the things I'm currently doing or planning on doing.
